@@ -1,1 +1,1 @@
-# Tic_Tac_Toe_Game
+# This program is used to create a simple TIC TAC TOE game against computer
